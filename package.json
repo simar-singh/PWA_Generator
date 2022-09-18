@@ -1,0 +1,36 @@
+{
+  "name": "pwa-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simar-singh/PWA-Generator.git"
+  },
+  "keywords": [],
+  "author": "simar-singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simar-singh/PWA-Generator/issues"
+  },
+  "homepage": "https://github.com/simar-singh/PWA-Generator#readme",
+  "dependencies": {
+    "jszip": "^3.7.1",
+    "next": "^11.1.2",
+    "next-pwa": "^5.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.27",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.16",
+    "typescript": "^4.4.3"
+  }
+}
